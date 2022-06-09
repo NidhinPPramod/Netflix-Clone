@@ -1,0 +1,24 @@
+.row-posters {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    color: white;
+}
+
+.posters{
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    overflow-y:hidden;
+}
+.posters::-webkit-scrollbar{
+    display: none;
+}
+.poster-image {
+    width: 10rem;
+    height: 15rem;
+    margin-right: 1rem;
+}
+.row-title{
+    padding: 1rem;
+}
