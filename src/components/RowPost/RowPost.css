@@ -15,10 +15,25 @@
     display: none;
 }
 .poster-image {
-    width: 10rem;
-    height: 15rem;
+    max-width: 25rem;
+    max-height: 15rem;
     margin-right: 1rem;
+    cursor: pointer;
+    border-radius: 2rem;
+}
+.small-poster-image{
+    max-width: 15rem;
+    margin-right: 1rem;
+    cursor: pointer;
 }
 .row-title{
     padding: 1rem;
+}
+.poster-image:hover{
+    transform: scale(1.05);
+    transition: .25s
+}
+.small-poster-image:hover{
+    transform: scale(1.05);
+    transition: .25s
 }

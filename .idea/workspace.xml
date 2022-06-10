@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bc3b87d-7469-49d7-83ed-496208bc8888" name="Changes" comment="Added the Row Posters and Cleanup the project" />
+    <list default="true" id="1bc3b87d-7469-49d7-83ed-496208bc8888" name="Changes" comment="Added the Row Posters and Cleanup the project">
+      <change afterPath="$PROJECT_DIR$/src/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/constants/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/url.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Banner/Banner.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Banner/Banner.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Banner/Banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Banner/Banner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RowPost/RowPost.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RowPost/RowPost.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RowPost/RowPost.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RowPost/RowPost.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +42,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\REACT PROJECT\netflix-clone\src\components" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654779640015</updated>
       <workItem from="1654779643433" duration="6669000" />
+      <workItem from="1654836496169" duration="12529000" />
     </task>
     <task id="LOCAL-00001" summary="Added a Navbar">
       <created>1654786171090</created>
@@ -77,6 +95,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a Navbar" />
